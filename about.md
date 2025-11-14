@@ -3,7 +3,7 @@ layout: default
 title: About the Project
 ---
 
-# About the Drunkard Card Project
+# About the Cartão do Cachaceiro Project
 
 The **Cartão do Cachaceiro App** was created to make it fast and simple for anyone to generate their own personalized card directly from their phone.
 
