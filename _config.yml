@@ -6,7 +6,7 @@ theme: jekyll-theme-cayman
 nav:
   - name: Home
     link: /
-  - name: Política de Privacidade
-    link: /politica-de-privacidade.html
-  - name: Sobre o Projeto
-    link: /sobre.html
+  - name: Privacy Policy
+    link: /privacy-policy.html
+  - name: About the Project
+    link: /about.html
