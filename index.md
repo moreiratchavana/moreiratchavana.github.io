@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Drunkard Card App
+title: Cartão do Cachaceiro app
 ---
 
-# Drunkard Card App
+# Cartão do Cachaceiro
 
-Welcome to the official website of the **Drunkard Card App**!
+Welcome to the official website of the **Cartão do Cachaceiro app**!
 
 Here you will find:
 
@@ -16,7 +16,7 @@ Here you will find:
 
 ## 📱 About the App
 
-The **Drunkard Card App** allows users to quickly generate and customize their personal "Drunkard Card" including:
+The **Cartão do Cachaceiro App** allows users to quickly generate and customize their personal "Drunkard Card" including:
 
 - Name  
 - Date  
