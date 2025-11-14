@@ -40,8 +40,8 @@ Project updated in **2025**.
 
 
 <nav style="background:#eee; padding:15px; text-align:center; border-radius:6px;">
-    <a href="/" style="margin:0 15px;">Home</a>
-    <a href="/politica-de-privacidade.html" style="margin:0 15px;">Privacy Policy</a>
+    <a href="/index.html" style="margin:0 15px;">Home</a>
+    <a href="/privacy-policy.html" style="margin:0 15px;">Privacy Policy</a>
     <a href="/about.html" style="margin:0 15px;">About the Project</a>
 </nav>
 <br>
