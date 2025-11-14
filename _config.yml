@@ -1,6 +1,6 @@
 title: Cartão do Cachaceiro
 description: Aplicativo oficial para gerar o cartão do cachaceiro. Informações, políticas e atualizações.
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 # Links da navegação
 nav:
